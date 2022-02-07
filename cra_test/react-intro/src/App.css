@@ -1,0 +1,50 @@
+
+.main {
+  background-color: aqua;
+}
+
+div {
+  border: 5px;
+  border-style: solid;
+}
+
+div.nf {
+  display:flexbox;
+  flex-direction: row;
+  background-color: yellow;
+}
+
+img.nf {
+  width: 100%;
+}
+
+div.sub {
+  width: 20%;
+  background-color: blue;
+}
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
