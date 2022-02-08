@@ -1,0 +1,9 @@
+.true {
+    background-color: black;
+    color: white
+  }
+  
+.false {
+    background-color: white;
+    color: black;
+  }

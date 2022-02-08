@@ -45,7 +45,7 @@ const App = () => {
 // need to add title at the bottom over the images
 const DivBuildo = (props) => {
   return (
-    <div className="nf">
+    <div className={props.className}>
       <ImageBuildo filmName={godzilla} className={props.className}/>
       <ImageBuildo filmName={ad_astra} className={props.className}/>
       <ImageBuildo filmName={copperfield} className={props.className}/>

@@ -3,24 +3,45 @@
   background-color: aqua;
 }
 
-div {
+/* div {
   border: 5px;
   border-style: solid;
-}
+} */
 
+
+
+/* need to put the title over the picture with transparency */
 div.nf {
-  display:flexbox;
-  flex-direction: row;
   background-color: yellow;
+  display: flex;
+  flex-direction: row;
+
 }
 
 img.nf {
   width: 100%;
 }
 
-div.sub {
+div.RBnB {
+  display: flex;
+  flex-direction: row;
+}
+
+
+img.RBnB {
+  width: 100%;
+}
+
+
+div. {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.nf div.sub {
   width: 20%;
-  background-color: blue;
+  border-color: white;
 }
 
 
